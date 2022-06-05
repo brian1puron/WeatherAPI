@@ -86,9 +86,9 @@ function InputKey(e){
 
 }
 */
-///////////////////////////getting geolocation
+///////////////////////////Getting geolocation and actibvate the first api base on this second one
 
-
+/
 window.navigator.geolocation
     .getCurrentPosition(console.log, console.log);
 
